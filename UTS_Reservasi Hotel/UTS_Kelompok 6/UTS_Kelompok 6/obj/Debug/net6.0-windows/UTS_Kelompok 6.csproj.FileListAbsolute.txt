@@ -1,0 +1,56 @@
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok_6.Login.resources
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.exe
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.deps.json
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.runtimeconfig.json
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.dll
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.pdb
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.dll
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\refint\UTS_Kelompok 6.dll
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.pdb
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\ref\UTS_Kelompok 6.dll
+C:\Users\lenovo\source\repos\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok_6.Form2.resources
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok_6.Login.resources
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok_6.Form2.resources
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.AssemblyInfo.cs
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.dll
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\refint\UTS_Kelompok 6.dll
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.pdb
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.exe
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.deps.json
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.runtimeconfig.json
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.dll
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.pdb
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.genruntimeconfig.cache
+C:\Users\User\Desktop\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\ref\UTS_Kelompok 6.dll
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.exe
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.deps.json
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.runtimeconfig.json
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.dll
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\bin\Debug\net6.0-windows\UTS_Kelompok 6.pdb
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok_6.Form2.resources
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok_6.Login.resources
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.AssemblyInfo.cs
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.dll
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\refint\UTS_Kelompok 6.dll
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.pdb
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok 6.genruntimeconfig.cache
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\ref\UTS_Kelompok 6.dll
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok_6.Properties.Resources.resources
+C:\Users\User\Desktop\UTS_Reservasi Hotel\UTS_Kelompok 6\UTS_Kelompok 6\obj\Debug\net6.0-windows\UTS_Kelompok_6.Form1.resources
