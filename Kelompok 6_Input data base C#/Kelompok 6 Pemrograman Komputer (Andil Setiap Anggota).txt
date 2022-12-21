@@ -1,0 +1,16 @@
+ANGGOTA KELOMPOK 6
+
+BAB V DATABASE DI C#
+
+Input Data MYSQL Ke Visual Studio
+
+1. Panji Arief Pratama (21041001) 
+Kontribusi : Laptop dan Pembuatan Coding Program
+2. Mufasirin (21041086)
+Kontribusi : Pembuatan Coding Program, Penambahan Desain Pada Program.
+3. Himmatul Ulya (21041075)
+Kontribusi : Penambahan Desain Pada Program
+4. Asyraf Iqbal Oktavian (21041009)
+Kontribusi : Pengakomodasi Logistik, Uploading Tugas
+5. Mohamad Suharyadi (21041029)
+Kontribusi : Pengakomodasi Logistik.
