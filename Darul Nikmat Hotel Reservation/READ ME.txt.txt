@@ -1,0 +1,18 @@
+======APLIKASI RESERVASI HOTEL DARUL NIKMAT v.1.1======
+
+New Feature :
+* New Login Form, Register Form, Reset Password Form using MySQL database.
+* New Data booking viewer
+* New Search,Input,Update,Delete function.
+* New Design
+
+This App developed by :
+1. Panji Arief (21041001), Basic Concept, UI/UX concept, Code App program,tester, bug fixes.
+2. Mufasirin (21041086), Basic Concept, UI/UX Design,tester.
+3. Asyraf Iqbaaale (	), Logistic,tester
+4. Himatul Ulyaa (	), Logistic,tester
+5. Suher (	), Logistic,tester.
+
+Note :
+This app was developed for Final Prject Computer Programming subject.
+Spesial thanks to : Kopi Kapal Api + Surya 16 :)
